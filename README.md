@@ -21,5 +21,5 @@ For the **Rural cities type** it would be a good idea to increment drivers the l
 
 ## Business recommendations to the CEO 
 - Improve the drivers in rural cities, since the lack of drivers affects the total rides along with the total fares final and averages.
-- Decrease the price in rural and suburban cities so the number of rides could improve due the fact that people could afford more rides and taking in cconsideration the incomes in the rural cities type.
+- Decrease the price in rural and suburban cities so the number of rides could improve due the fact that people could afford more rides and taking in consideration the incomes in the rural cities type.
 - Follow the tendencies and see when more demand is, the line chart is a tool that shows when **Total Fare ($USD)** is on the peak for each **city type**, this is helpful to know when to increment the total drivers related to the high demand of them.
